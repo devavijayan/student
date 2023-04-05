@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "name": "Deva",
+      "standard": "X",
+      "age": "15",
+      "gender": "Male",
+      "address": "Banglore",
+      "phone": "7892491567",
+      "email": "de@in.com",
+      "teacher": "Karthi",
+      "active": true,
+      "id": 1
+    },
+    {
+      "name": "Thilak",
+      "standard": "X",
+      "age": "15",
+      "gender": "Male",
+      "address": "Ooty",
+      "phone": "8050306051",
+      "email": "thi@in.com",
+      "teacher": "Surya",
+      "active": true,
+      "id": 2
+    }
+  ]
+}
